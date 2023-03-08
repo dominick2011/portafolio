@@ -1,0 +1,21 @@
+#apps {
+    background-color: red;
+    text-align: center;
+}
+
+.linea {
+    width: 400px;
+    background-color: royalblue;
+    height: 6px;
+    margin: 8px auto;
+}
+
+#micarrusel img {
+    height: 300px;
+    margin: 35px auto;
+
+}
+
+.carousel-inner .item a img {
+    display: inline !important;
+}
